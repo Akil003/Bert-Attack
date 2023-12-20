@@ -15,5 +15,8 @@ This project focuses on exposing the vulnerabilities of BERT in the context of s
 </ol>
 <br>
 <b>Dataset link: </b> https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset
+<br>
 <b>Pre-trained model: </b> https://huggingface.co/MarieAngeA13/Sentiment-Analysis-BERT 
+<br>
 <b>Sentence Encoder: </b> https://tfhub.dev/google/universal-sentence-encoder/4
+<br>
