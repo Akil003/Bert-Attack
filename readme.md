@@ -11,7 +11,7 @@ This project focuses on exposing the vulnerabilities of BERT in the context of s
 <li> Preprocess the data by running <b>PreProces.ipynb</b>. (Note that this step is necessary only if you want to re-preprocess the tweets as it has already been done in advance and the file <b>tweets_preprocessed.ipynb</b> is present in the data folder.) </li>
 <li> Fine Tune the pretrained bert model on the processed dataset by running <b>Fine Tune.ipynb</b>. It would create a model called <b> tweet_classification</b> which would be uploaded to your drive.</li>
 <li> Generate Adversarial Texts for the negative tweets by running <b>Generate Adversarial Text.ipynb</b>. This would create a <b>dumps</b> folder in your drive which would be useful for the following step.</li>
-<li> Calculate Post-Attack accuracy by running <b>Post-Attack Accuracy.ipynb</b><li>
+<li> Calculate Post-Attack accuracy by running <b>Post-Attack Accuracy.ipynb</b></li>
 </ol>
 <br>
 <b>Dataset link: </b> https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset
